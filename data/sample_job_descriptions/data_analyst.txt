@@ -1,0 +1,20 @@
+
+Data Analyst - Entry Level
+
+We are looking for an entry-level Data Analyst to join our analytics team.
+
+Responsibilities:
+- Analyze business data and identify trends and patterns.
+- Write SQL queries to extract and transform data.
+- Use Python for data cleaning and analysis.
+- Create dashboards and reports using Power BI.
+- Communicate analytical findings to business stakeholders.
+- Perform data validation and quality checks.
+
+Requirements:
+- Bachelor's degree in Computer Science, Data Analytics, Statistics, or a related field.
+- Strong SQL skills.
+- Basic to intermediate Python knowledge.
+- Experience with Power BI or similar visualization tools.
+- Understanding of data cleaning and exploratory data analysis.
+- Strong analytical and communication skills.
